@@ -6,8 +6,8 @@ This program is free software. You can redistribute it and/or modify it under th
 For more information about the license read the README.txt file.*/
 
 # include "./includes/miinclude.h"
-#include <string.h>
 int main(){
-printf("Hola mundo\n");
+char c[100]= "Hola mundo";
+printf("%s\n", strcat(c,", soy i22lojal"));
 return 0;
 }
