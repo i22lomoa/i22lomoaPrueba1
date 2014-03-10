@@ -6,3 +6,4 @@ This program is free software. You can redistribute it and/or modify it under th
 For more information about the license read the  README.txt file.*/
 
 #include <stdio.h>
+#include <string.h>
