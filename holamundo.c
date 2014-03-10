@@ -6,7 +6,6 @@ This program is free software. You can redistribute it and/or modify it under th
 For more information about the license read the README.txt file.*/
 
 # include "./includes/miinclude.h"
-#include <string.h>
 int main(){
 printf("Hola mundo\n");
 return 0;
